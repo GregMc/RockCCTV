@@ -1,0 +1,68 @@
+
+/*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+     NAV 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
+
+/*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      HERO
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+.font63 { color: #2a617d;
+  font-size: 16px;
+}
+
+.h1 {
+    font-size: 24px;
+    color: #2a617d;
+    background-color: #e6e6e6; }
+
+
+.hero {
+	background-color: #999;
+	padding: 20px 20px 10px 20px; }
+
+.hero2 {
+	background-color: #ccc;
+	color: #2a617d;
+  font-size: 24px;
+	padding: 20px 20px 10px 20px;
+	text-align: center; }
+
+.button.sucess{
+	background-color: purple;  }
+
+.orbit-slide {
+  width: 85%;
+  padding: 10px 20px 10px 60px;
+  position: center;
+  color: #2a2aba;
+  background-color: #dadada; }
+  .orbit-slide.no-motionui.is-active {
+    top: 0;
+    left: 10;
+     }
+
+.orbit-container {
+  position: relative;
+  height: 0;
+  margin: 20;
+  color: #2a2a2a;
+  list-style: none;
+  overflow: hidden; }
+
+  .callout {
+  position: relative;
+  margin: 0 0 1rem 0;
+  padding: 1rem;
+  border: 0px solid rgba(10, 10, 10, 0.25);
+  border-radius: 0;
+  background-color: white;
+  color: #0a0a0a; }
+  .callout > :first-child {
+    margin-top: 0; }
+  .callout > :last-child {
+    margin-bottom: 0; }
+  .callout.primary {
+    background-color: white;
+    color: #0a0a0a; }
